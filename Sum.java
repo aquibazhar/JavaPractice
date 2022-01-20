@@ -1,7 +1,7 @@
 package LearningGit;
 
 public class Sum {
-    public static void main(Strng args[]) {
+    public static void main(String args[]) {
         int a = 10;
         int b = 18;
 
