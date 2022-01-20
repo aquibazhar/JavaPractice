@@ -1,0 +1,6 @@
+1) Made an ArrayList and added all the characters of String in it. Also took answer variable which stores '$' by default.
+2) Ran a while loop until the list is completely empty.
+3) Stored the first element of the list in temp (ArrayList of size 1) and removed that character from the original ArrayList.
+4) Checked if that character(stored in temp) still exists
+5) If it doesn't the that is the answer.
+6) If it does then remove all the occurences of temp from original list and clear temp and repeat from step 3.
